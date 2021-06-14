@@ -1,11 +1,6 @@
 /*
-Final Project -- 5x5 Matrix Transpose
-CECS460 -- Pooria Yaghini
-Computer Engineering Team
- - Justin Elassal
- - Tylor Cooks
- - Trevor Scott
- - Farhad Nourbaksh
+5x5 Matrix Transposer
+Justin Elassal
 */
 
 //MatMult
